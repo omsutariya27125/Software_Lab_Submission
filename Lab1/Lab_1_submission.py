@@ -95,4 +95,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # Mane aa language avdi gai che, Tu chutiyo che.
